@@ -7,4 +7,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Pojeto com Laravel/PHP, contendo autenticação e verificação de E-mail para login.
+Pojeto com Laravel/PHP, contendo autenticação e verificação de E-mail no cadastro do usuário e na validação para sua entrada (Login).
